@@ -1,0 +1,20 @@
+# Build results
+bin/
+obj/
+publish/
+out/
+
+# User-specific
+*.user
+*.suo
+*.pdb
+*.cache
+*.log
+
+# IDE settings
+.vs/
+.vscode/
+
+# OS-specific
+Thumbs.db
+.DS_Store
