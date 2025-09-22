@@ -22,7 +22,7 @@ It "levitates" above all other windows so your notes are always visible, accessi
 ## 📥 Download
 
 Grab the latest **portable executable** from the  
-👉 [Releases page](https://github.com/YOUR-USERNAME/LeviText/releases)
+👉 [Releases page](https://github.com/CardigansoftheGalaxy/LeviText/releases)
 
 Just unzip and run `LeviText.exe`.
 
@@ -33,7 +33,7 @@ Just unzip and run `LeviText.exe`.
 Requires **.NET 9 SDK** (or latest stable .NET).
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/LeviText.git
+git clone https://github.com/CardigansoftheGalaxy/LeviText.git
 cd LeviText
 dotnet publish -c Release -r win-x64 --self-contained true `
   /p:PublishSingleFile=true `
