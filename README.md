@@ -3,7 +3,7 @@
 LeviText is a lightweight, portable, **always-on-top rich text editor** for Windows 10/11.  
 It "levitates" above all other windows so your notes are always visible, accessible, and editable.
 
-🕴 Inspired by the levitating man emoji — LeviText floats effortlessly, a nod to *Leviticus*, a ghostly presence that became part of our workplace culture.
+🕴 Inspired by the levitating man emoji — LeviText floats effortlessly, a nod to *Leviticus*, a presence that became part of our workplace culture.
 
 ---
 
